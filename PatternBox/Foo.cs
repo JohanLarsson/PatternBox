@@ -1,12 +1,12 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace PatternBox
+﻿namespace PatternBox
 {
-    public class Class1
+    public class Foo
     {
+        public Foo()
+        {
+            this.Name = "a" + "b";
+        }
+
+        public string Name { get; }
     }
 }
