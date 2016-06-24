@@ -1,0 +1,17 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=18FAA4D998548B4A956658FBA46F0FBF/CustomPatternPlaceholder/=Arg1/Properties/=ExactType/@EntryIndexedValue">True</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=18FAA4D998548B4A956658FBA46F0FBF/CustomPatternPlaceholder/=Arg1/Properties/=ExpressionType/@EntryIndexedValue">System.String</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=18FAA4D998548B4A956658FBA46F0FBF/CustomPatternPlaceholder/=Arg1/Properties/=Maximal/@EntryIndexedValue"></s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=18FAA4D998548B4A956658FBA46F0FBF/CustomPatternPlaceholder/=Arg1/Properties/=Maximal/@EntryIndexRemoved">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=18FAA4D998548B4A956658FBA46F0FBF/CustomPatternPlaceholder/=Arg1/Properties/=Minimal/@EntryIndexedValue"></s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=18FAA4D998548B4A956658FBA46F0FBF/CustomPatternPlaceholder/=Arg1/Properties/=Minimal/@EntryIndexRemoved">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=18FAA4D998548B4A956658FBA46F0FBF/CustomPatternPlaceholder/=Arg1/Type/@EntryValue">ExpressionPlaceholder</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=18FAA4D998548B4A956658FBA46F0FBF/CustomPatternPlaceholder/=Arg2/Properties/=ExactType/@EntryIndexedValue">True</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=18FAA4D998548B4A956658FBA46F0FBF/CustomPatternPlaceholder/=Arg2/Properties/=ExpressionType/@EntryIndexedValue">System.String</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=18FAA4D998548B4A956658FBA46F0FBF/CustomPatternPlaceholder/=Arg2/Properties/=Maximal/@EntryIndexedValue"></s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=18FAA4D998548B4A956658FBA46F0FBF/CustomPatternPlaceholder/=Arg2/Properties/=Maximal/@EntryIndexRemoved">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=18FAA4D998548B4A956658FBA46F0FBF/CustomPatternPlaceholder/=Arg2/Properties/=Minimal/@EntryIndexedValue"></s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=18FAA4D998548B4A956658FBA46F0FBF/CustomPatternPlaceholder/=Arg2/Properties/=Minimal/@EntryIndexRemoved">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=18FAA4D998548B4A956658FBA46F0FBF/CustomPatternPlaceholder/=Arg2/Type/@EntryValue">ExpressionPlaceholder</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=18FAA4D998548B4A956658FBA46F0FBF/SearchPattern/@EntryValue">$Arg1$ + $Arg2$</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/StructuralSearch/Pattern/=18FAA4D998548B4A956658FBA46F0FBF/Severity/@EntryValue">ERROR</s:String></wpf:ResourceDictionary>
